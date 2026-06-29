@@ -1,0 +1,68 @@
+# 📸 Visual Documentation & Snapshots
+
+Welcome to the visual breakdown of the HR Analytics Dashboard. This file provides detailed snapshots of the individual components, charts, and backend pivot tables used to build the final product.
+
+---
+
+## 1. Full Dashboard Overview
+A complete view of the interactive dashboard, showcasing all KPIs, charts, and slicers in one unified layout.
+
+![Full Dashboard Overview](hr_dashboard.PNG)
+*Caption: The main user interface of the HR Analytics Dashboard.*
+
+---
+
+## 2. Key Performance Indicators (KPIs)
+The top section of the dashboard is dedicated to high-level metrics that provide immediate insights into the workforce.
+
+![KPI Snapshot](path_to_kpi_image.png) 
+*Caption: KPI ribbons tracking Total Headcount, Active Headcount, Attrition metrics, and Internal Transfers.*
+
+---
+
+## 3. Backend Pivot Tables
+The engine driving the dashboard. This snapshot shows the raw data aggregation and pivot table structures used to feed the visual charts.
+
+![Pivot Tables Snapshot](path_to_pivot_table_image.png)
+*Caption: Data modeling and Pivot Tables used to calculate dynamic metrics.*
+
+---
+
+## 4. Individual Charts & Visualizations
+Below is a detailed look at each distinct chart used to slice the HR data across various dimensions.
+
+### 📈 Headcount Growth (Combo Chart)
+![Headcount Growth](path_to_hc_growth_image.png)
+*Caption: Year-over-year comparison of onboarding, attrition, and overall headcount growth from 2020 to 2025.*
+
+### 🍩 Diversity Percentage (Donut Chart)
+![Diversity %](path_to_diversity_image.png)
+*Caption: Gender distribution across the organization.*
+
+### 🔺 Job Levels (Pyramid Chart)
+![Job Levels %](path_to_job_levels_image.png)
+*Caption: Visual representation of the organizational hierarchy from Trainees to Management.*
+
+### 🏢 Department Distribution (Donut Chart)
+![Dept by HC %](path_to_dept_distribution_image.png)
+*Caption: Headcount percentage split across key departments like Sales, Operations, and Marketing.*
+
+### 🌪️ Headcount Reporting (Funnel Chart)
+![HC Reporting](path_to_hc_reporting_image.png)
+*Caption: Span of control illustrating the number of employees rolling up to specific reporting managers.*
+
+### 📊 Employee Type (Stacked Column Chart)
+![Emp Type %](path_to_emp_type_image.png)
+*Caption: Ratio of Permanent vs. Contract employees.*
+
+### 📉 Organizational Stability (Bar Chart)
+![Stability %](path_to_stability_image.png)
+*Caption: Employee tenure breakdown, tracking long-term stability (>5 years) against new hires (<1 year).*
+
+---
+
+## 5. Interactive Elements (Slicers)
+The dashboard features dynamic filtering tools that allow users to customize their view on the fly.
+
+![Dashboard Slicers](path_to_slicers_image.png)
+*Caption: Excel slicers utilized to filter the entire dashboard by specific 'Departments' and 'Reporting Managers'.*
